@@ -24,7 +24,5 @@ class SplitStringTest {
     expectedList.add("am");
     assertEquals(expectedList, splitString.splitString("exam"));
   }
-
-
-
 }
+

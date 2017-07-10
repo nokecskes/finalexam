@@ -33,5 +33,5 @@ public class SplitString {
     }
     return splittedWord;
   }
-
 }
+
