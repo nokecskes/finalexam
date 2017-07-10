@@ -29,7 +29,6 @@ public class SplitString {
       } else {
         substring = toSplit.substring(i, i + 2);
       }
-      System.out.println(substring);
       splittedWord.add(substring);
     }
     return splittedWord;
